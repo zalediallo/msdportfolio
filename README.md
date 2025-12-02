@@ -80,7 +80,7 @@ A full data engineering + machine learning pipeline analyzing NHL shot events.
 - Prediction of shot scoring probability  
 - Visualization dashboards  
 
-👉 *Repo coming soon / or insert link here*
+🔗 **Source code:** [IFT6758 project](https://github.com/SalehDiallo/IFT6758-A06.git) **
 
 ---
 
