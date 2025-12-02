@@ -71,11 +71,11 @@ Java application that validates credit cards (Visa, MasterCard, American Express
 ### 🔧 Tech Stack  
 `Java` • `OOP` • `Luhn Algorithm` • `Design Patterns` • `Modular Java`
 
-### 🔹 Introduction to Numpy library 
-**[Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)**
-
+### 🔹 Introduction to Numpy library : **[Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)**
 ### 🔧 Tech Stack  
 `Python` • `Numpy`
+
+---
 
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
