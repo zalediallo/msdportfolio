@@ -47,6 +47,36 @@ My background includes academic research, freelance web development, and hands-o
 
 ## 📂 Featured Projects
 
+### 🔹 Validité des Cartes Bancaires — Java
+
+📌 **Projet personnel — Vérification automatique de numéros de cartes bancaires**  
+🔗 **Code source :** [https://github.com/USERNAME/Validite-Cartes-Bancaires](https://github.com/SalehDiallo/Validit-CartesBancaires.git) *(à remplacer)*
+
+---
+
+### 📝 Description  
+Application Java permettant de valider des cartes bancaires (Visa, MasterCard, American Express) à l’aide d’une architecture orientée objet et de la méthode de Luhn.
+
+---
+
+### 🚀 Fonctionnalités principales
+
+- Vérification de la structure des numéros selon les règles propres à chaque type de carte.  
+- Implémentation de la **méthode de Luhn**.  
+- Architecture basée sur le **pattern Strategy**, avec :
+  - une classe abstraite `Verificateur`
+  - `VisaVerificateur`
+  - `MasterCVerificateur`
+  - `AmerExpVerificateur`
+- Classe `Banque` gérant la logique de sélection du bon vérificateur.  
+- Classe `Test` simulant plusieurs cas d'utilisation.
+
+---
+
+### 🔧 Tech Stack  
+`Java` • `OOP` • `Luhn Algorithm` • `Design Patterns` • `Modular Java`
+
+
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
 **Tech:** Python, Pandas, Matplotlib, Scikit-learn  
