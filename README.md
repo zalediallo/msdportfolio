@@ -47,6 +47,7 @@ My background includes academic research, freelance web development, and hands-o
 ### 🔹 Credit Card Validity Checker 
 
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.
+
 🔗 **Code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)
 
 #### 🔧 Tech Stack  
