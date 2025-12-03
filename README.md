@@ -1,5 +1,3 @@
-# SaSeezy.github.io
-
 # 👋 Hi, I'm Mamadou Saliou Diallo  
 ### AI Engineer | Data Scientist | Software Developer  
 🎓 Master's in Computer Science – Université de Montréal  
