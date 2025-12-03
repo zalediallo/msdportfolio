@@ -49,23 +49,29 @@ My background includes academic research, freelance web development, and hands-o
 ### 🔹 Credit Card Validity Checker — Java 
 
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.
-🔗 **Code:**[Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)
+🔗 **Code: **[Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)
 
-### 🔧 Tech Stack  
+#### 🔧 Tech Stack  
 `Java` • `OOP` • `Luhn Algorithm` • `Design Patterns` • `Modular Java`
 
 ---
 
 ### 🔹 Introduction to Numpy library : **[Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)**
 
-### 🔧 Tech Stack  
+#### 🔧 Tech Stack  
 `Python` • `Numpy`
 
 ---
 
 ### 🔹 Best Features selection
 Loading the Iris dataset, splits it, selects important features using chi-squared, Random Forest, LDA, and forward sequential selection, and prints selected indices and feature importances.
-🔗 **Code:**[code](https://github.com/SalehDiallo/IFT6390/blob/main/Best_features_selections.ipynb)
+
+🔗 **Code:**[Best Features selection](https://github.com/SalehDiallo/IFT6390/blob/main/Best_features_selections.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `sklearn`
+
+---
 
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
