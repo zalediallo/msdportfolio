@@ -203,7 +203,7 @@ This project explores deep learning with JAX by building and training MLPs and C
 
 
 
-### 🔹 NHL Analytics Platform**
+### 🔹 NHL Analytics Platform
 A full data engineering + machine learning pipeline analyzing Canadian NHL(National Hockey League) shot events.  
 **Tech:** Python, Pandas, Matplotlib, Scikit-learn  
 **Features:**  
@@ -212,11 +212,11 @@ A full data engineering + machine learning pipeline analyzing Canadian NHL(Natio
 - Prediction of shot scoring probability  
 - Visualization dashboards  
 
-🔗 **Source code: [Canadian National Hockey League](https://github.com/SalehDiallo/IFT6758-A06.git)
+🔗 **Code: [Canadian National Hockey League](https://github.com/SalehDiallo/IFT6758-A06.git)
 
 ---
 
-### 🔹 Audio Dataset Processing & Visualization**
+### 🔹 Audio Dataset Processing & Visualization
 Data science pipeline using Google Research audio dataset.  
 **Tech:** Python, Pandas, ffmpeg, youtube_dl  
 **Includes:**  
@@ -227,7 +227,7 @@ Data science pipeline using Google Research audio dataset.
 
 ---
 
-### 🔹 Homography & Panorama Reconstruction (C++ + OpenCV)**
+### 🔹 Homography & Panorama Reconstruction (C++ + OpenCV)
 Computer vision project reconstructing a panorama from 8 images.  
 **Tech:** C++, OpenCV, Mathematica  
 **Includes:**  
@@ -238,7 +238,7 @@ Computer vision project reconstructing a panorama from 8 images.
 
 ---
 
-### 🔹 Gen AI – Chatbots & Agents**
+### 🔹 Gen AI – Chatbots & Agents
 Mini-projects showcasing LLM usage in apps:  
 - RAG chatbot with Pinecone + LangChain  
 - PDF question-answering  
@@ -247,33 +247,31 @@ Mini-projects showcasing LLM usage in apps:
 
 ---
 
-### 🔹 **🌐 Full-Stack Portfolio / Web Projects**
-Freelance work:  
-- Landing pages  
-- Admin dashboards  
-- E-commerce prototypes  
-**Tech:** React, Node.js, TailwindCSS, Firebase
-
----
-
 ## 🎓 Education
-**Master of Computer Science — Université de Montréal**  
+**Computer Science — [University of Montreal](https://www.umontreal.ca/l-udem/#histoire)**  — *Canada*
 Focus: AI, Data Science, Computer Vision, Machine Learning
+
+**Computer Science — [Northwestern Ploytechnical University](https://en.nwpu.edu.cn/)**  — *China*
+Focus: Computer vsion, Object detection & recognition, Deep learning
+
+**Computer Science — [Iba Der Thiam University of Thiès](https://v3.uidt.sn/a-propos/)**  — *Senegal*
+Focus: Software enginnering
+
+
 
 ---
 
 ## 🌍 Languages
-- **French** (Professional)  
-- **English** (Professional)  
+- **French** (advanced)  
+- **English** (advanced)  
 - **Mandarin** (Intermediate)
+- **Fulani** (native)
+- **Wolof** (advanced)
 
 ---
 
 ## 📫 Contact
-📧 **mamadou.salioudiallo@gmail.com**  
-🔗 **LinkedIn:** *add your link*  
-🐙 **GitHub:** *your username*
-
+📧 **mamadou.saliou.diallo.5@umontreal.ca**   
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+⭐ *If you like my work, feel free to star my repositories!😁*
