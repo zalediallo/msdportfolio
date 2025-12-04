@@ -50,7 +50,7 @@ Responsible for implementing the artificial intelligence module of the [DocFlow]
 `Python` • `huggingface` • `LLM` • `Document AI` • `Google Cloud Vison API` • `PaddleOCR` • `DocTR` • `FastAPI` • `Google Cloud` • `Docker` • `Vue.js` • `Vertex AI` • `Firebase` • `AlloyDB`
 
 ### 🔹 AI Developper
-Responsible for designing and implementing the Proof of Concept (PoC) for automated call-topic detection and classification for [Fenetec](https://www.fenetec.com/) call center customers, including full pipeline development.
+Responsible for designing and implementing the Proof of Concept (PoC) for automated call-topic detection and classification for the company [Fenetec](https://www.fenetec.com/) call center customers, including full pipeline development.
 #### 🔧 Tech Stack 
 `Python` • `huggingface` • `LLM` • `Embedding` • `Google Cloud` • `Google Colab` • `Azure AI` • `Vertex AI` • `K-Means` • `HDBSCAN`
 
