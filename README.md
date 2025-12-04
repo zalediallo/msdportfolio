@@ -163,6 +163,17 @@ Focus: Software engineering
 
 ---
 
+## ⚡ Interests & Hobbies
+- Football  
+- Hiking  
+- Jogging
+- Swimming 
+- Reading AI research trends 
+- Geopolitics 
+- Traveling
+
+---
+
 ## 📫 Contact
 *mamadou.saliou.diallo.5@umontreal.ca*  
 
