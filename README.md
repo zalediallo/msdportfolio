@@ -168,7 +168,8 @@ Focus: Software engineering
 - Hiking  
 - Jogging
 - Swimming 
-- Reading AI research trends 
+- Reading AI research trends
+- Ethical hacking
 - Geopolitics 
 - Traveling
 
