@@ -60,6 +60,12 @@ Java application that validates credit cards (Visa, MasterCard, American Express
 #### 🔧 Tech Stack  
 `Java` • `OOP` • `Luhn Algorithm` • `Design Patterns` • `Modular Java`
 
+### 🔹 Senportable
+Senportable is an Android application that retrieves the user’s IP address, latitude, and longitude, then displays the device on a map. It provides accurate real-time location tracking. Its main purpose is to help locate a stolen phone by offering precise geolocation and device monitoring features.
+🔗 **Code:** [Senportable](https://github.com/zalediallo/Senportables)  
+#### 🔧 Tech Stack  
+`Android (Java/Kotlin)` • `Google Maps SDK for Android` • `Google Play Services` • `IP Geolocation API` • `GPS & Network Providers` • `Gradle`
+
 ### 🔹 Introduction to Numpy library  
 **Code:** [Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)  
 #### 🔧 Tech Stack  
