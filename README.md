@@ -49,6 +49,11 @@ Responsible for implementing the artificial intelligence module of the [DocFlow]
 #### 🔧 Tech Stack 
 `Python` • `huggingface` • `LLM` • `Document AI` • `Google Cloud Vison API` • `PaddleOCR` • `DocTR` • `FastAPI` • `Google Cloud` • `Docker` • `Vue.js` • `Vertex AI` • `Firebase` • `AlloyDB`
 
+### 🔹 AI Developper
+Responsible for designing and implementing the Proof of Concept (PoC) for automated call-topic detection and classification for [Fenetec](https://www.fenetec.com/) call center customers, including full pipeline development.
+#### 🔧 Tech Stack 
+`Python` • `huggingface` • `LLM` • `Embedding` • `Google Cloud` • `Google Colab` • `Azure AI` • `Vertex AI` • `K-Means` • `HDBSCAN`
+
 ### 🔹 Credit Card Validity Checker  
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.  
 🔗 **Code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)  
