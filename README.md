@@ -45,7 +45,7 @@ My background includes academic research, web development, and hands-on work in 
 ## 📂 Featured Projects
 
 ### 🔹 AI Developper 
-Responsible for implementing the artificial intelligence module of the [DocFlow](https://docflow.ca/) project.
+Responsible for implementing the artificial intelligence module of the [DocFlow](https://docflow.ca/) project for verifying the compliance of notary-type documents..
 #### 🔧 Tech Stack 
 `Python` • `huggingface` • `LLM` • `Document AI` • `Google Cloud Vison API` • `PaddleOCR` • `DocTR` • `FastAPI` • `Google Cloud` • `Docker` • `Vue.js` • `Vertex AI` • `Firebase` • `AlloyDB`
 
