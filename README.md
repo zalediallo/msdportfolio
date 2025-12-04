@@ -117,17 +117,31 @@ This task implements and visualizes multiple loss functions, preprocesses the Ir
 
 ### 🔹 Decision Tree From Scratch with Entropy, Information Gain & Decision Boundary Visualization
 
-This project builds a full decision tree classifier **from scratch** using entropy and information gain.  
+This task builds a full decision tree classifier **from scratch** using entropy and information gain.  
 It includes synthetic data generation, training/test split, tree construction with unique node IDs, prediction functions, Graphviz visualization, and detailed 2D decision-boundary plotting for interpretability.
 
 **Code:** [Decision Tree](https://github.com/zalediallo/IFT6390/blob/main/IFT6390_decision_trees.ipynb)
 
 #### 🔧 Tech Stack  
-`Python` • `numpy`• `matplotlib`• `graphviz` • `pygraphviz`• `networkx` 
+`Python` • `numpy` • `matplotlib`• `graphviz` • `pygraphviz`• `networkx` 
+
+---
+
+### 🔹 Decision Trees & Random Forests From Scratch with Entropy, Information Gain, Bootstrapping and Performance Analysis
+
+This project implements a full decision tree and random forest classifier **from scratch** using the Iris dataset.  
+It includes entropy computation, best-split search via midpoints, recursive tree building, prediction logic, depth–accuracy analysis, custom bootstrapping and feature subsampling, and evaluation of random forest performance under different hyperparameters.
+
+**Code:** [Decision Tree & Random Forests](https://github.com/zalediallo/IFT6390/blob/main/Lab7_Trees_2024.ipynb)
+
+#### 🔧 Tech Stack  
+`Python` • `numpy` • `matplotlib`• `sklearn` 
 
 ---
 
 ### 🔹
+
+---
 
 ### 🔹 **🏒 NHL Analytics Platform**
 A full data engineering + machine learning pipeline analyzing NHL shot events.  
