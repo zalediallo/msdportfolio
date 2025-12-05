@@ -72,6 +72,12 @@ This project implements a 2D Neural Radiance Field (NeRF) in Mathematica. It gen
 #### 🔧 Tech Stack  
 `Wolfram Mathematica` 
 
+### 🔹 Simple Disparity Estimator
+The first notebook implements a **simple disparity estimator** using stereo image pairs from the KITTI dataset. It loads and processes left/right images and disparity maps, resizes them, saves the data locally, and splits it into training, validation, and test sets for disparity estimation tasks. The second one prepares the data for subsequent implementation of the SGBM (Semi-Global Block Matching) algorithm in computer vision applications.<br>
+🔗 **Code:** [disparity estimator](https://github.com/zalediallo/IFT-6145-Homeworks/blob/main/TP3.zip)  
+#### 🔧 Tech Stack  
+`Wolfram Mathematica` 
+
 ### 🔹 Introduction to Numpy library  
 **Code:** [Introduction to numpy](https://github.com/SalehDiallo/IFT6390/blob/main/1_IFT6390_Lab1_01_Numpy.ipynb)  
 #### 🔧 Tech Stack  
