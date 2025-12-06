@@ -187,7 +187,7 @@ Mini-projects using LLMs for RAG chatbot, PDF Q&A, planning agents, and FastAPI 
 
 ## 🎓 Education
 **Computer Science — [University of Montreal](https://www.umontreal.ca/l-udem/#histoire)** — *Canada*  
-Focus: AI, Data Science, Computer Vision, Machine Learning  
+Focus: AI, Data Science, Computer Vision, Machine Learning, Information retrieval 
 
 **Computer Science — [Northwestern Polytechnical University](https://en.nwpu.edu.cn/)** — *China*  
 Focus: Computer vision, Object detection & recognition, Deep learning  
