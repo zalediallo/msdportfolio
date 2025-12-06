@@ -54,6 +54,18 @@ Responsible for designing and implementing the Proof of Concept (PoC) for automa
 #### 🔧 Tech Stack 
 `Python` • `huggingface` • `LLM` • `Embedding` • `Google Cloud` • `Google Colab` • `Azure AI` • `Vertex AI` • `K-Means` • `HDBSCAN`
 
+### 🔹 End-to-End NHL Expected Goals (xG) Analytics and Deployment Pipeline 
+The project builds a complete Canadian NHL([National Hockey League])(https://www.nhl.com/fr/) expected-goals pipeline. Milestone 1 focuses on acquiring, cleaning, and exploring play-by-play data through visual analyses. Milestone 2 develops predictive xG models via feature engineering, logistic regression and XGBoost, with experiment tracking and evaluation. Milestone 3 deploys the model as a Dockerized Flask API connected to a Streamlit dashboard that fetches live NHL events, computes features, generates predictions, and displays real-time insights. The result is a fully reproducible, production-ready ML system.<br>
+🔗 **Code:** [Canadian National Hockey League](https://github.com/SalehDiallo/IFT6758-A06.git)  
+#### 🔧 Tech Stack  
+`Python` • `Pandas` • `Numpy` • `Scikit-learn` • `NHL Stats API` • `XGBoost` • `Wandb` • `Matplotlib` • `Jekyll` • `Flask` • `Streamlit` • `Docker`
+
+### 🔹 Model-Driven Prompt Engineering for GPT-Based Generation of Anti-Pattern Code Samples(IFT 6253)
+This project proposes a model-driven approach to generate code examples containing specific anti-patterns using GPT. By defining metamodels, concepts, rules, and model-to-text transformations, it systematically produces precise prompts that guide GPT in generating diverse, controlled code-smell samples to enrich training datasets for machine-learning-based code-smell detection.<br>
+🔗 **Code:** [Anti-Pattern Code](https://github.com/zalediallo/IFT-6253) 
+#### 🔧 Tech Stack  
+`Java` • `GPT` • `Xtext` • `Model-Driven Engineering (MDE)` • `Xtend` • `Software Metrics & Code-smell Taxonomy` • `Anti-pattern Detection` • `Anti-pattern Detection`
+
 ### 🔹 Credit Card Validity Checker  
 Java application that validates credit cards (Visa, MasterCard, American Express) using an object-oriented architecture and the Luhn algorithm.  
 🔗 **Code:** [Automatic validation of credit card numbers](https://github.com/SalehDiallo/Validit-CartesBancaires.git)  
@@ -164,12 +176,6 @@ MLP & CNN training on MNIST & CIFAR-10 using JAX, Flax, Optax, autodiff, and JIT
 #### 🔧 Tech Stack  
 `Python` • `numpy` • `jax` 
 
-### 🔹 NHL Analytics Platform  
-Full pipeline for analyzing NHL shot events, data cleaning, predictions, and visualizations.  
-🔗 **Code:** [Canadian National Hockey League](https://github.com/SalehDiallo/IFT6758-A06.git)  
-#### 🔧 Tech Stack  
-`Python` • `Pandas` • `Matplotlib` • `Scikit-learn`
-
 ### 🔹 Foundations of Data Analysis with NumPy and Pandas 
 This assignment introduces data analysis using NumPy and Pandas. We implemented summary functions, perform monthly data analysis, and compare execution times of two approaches using a provided notebook. The goal is to build strong foundational skills in data manipulation, performance evaluation, and practical use of Python data-science tools.<br>
 🔗 **Code:** [Data Analysis](https://github.com/zalediallo/datasciences/blob/main/hw1.zip)  
@@ -241,12 +247,6 @@ This assignment requires running multiple open-source IR systems to index and re
 🔗 **Code:** [IR systems](https://github.com/zalediallo/IFT-6255) 
 #### 🔧 Tech Stack  
 `Java` • `Lucene` • `Lemur` • `Terrier` • `TF–IDF` • `BM25` • `Dirichlet smoothing`
-
-### 🔹 Model-Driven Prompt Engineering for GPT-Based Generation of Anti-Pattern Code Samples(IFT 6253)
-This project proposes a model-driven approach to generate code examples containing specific anti-patterns using GPT. By defining metamodels, concepts, rules, and model-to-text transformations, it systematically produces precise prompts that guide GPT in generating diverse, controlled code-smell samples to enrich training datasets for machine-learning-based code-smell detection.<br>
-🔗 **Code:** [Anti-Pattern Code](https://github.com/zalediallo/IFT-6253) 
-#### 🔧 Tech Stack  
-`Java` • `GPT` • `Xtext` • `Model-Driven Engineering (MDE)` • `Xtend` • `Software Metrics & Code-smell Taxonomy` • `Anti-pattern Detection` • `Anti-pattern Detection`
 
 ### 🔹 TensorRT Model Conversion Pipeline
 This works provides a streamlined pipeline for converting deep-learning models into optimized TensorRT engines. Using configuration files and conversion scripts, it transforms pretrained checkpoints into high-performance inference models. The goal is to accelerate deployment by reducing latency and improving throughput, particularly for real-time or resource-constrained applications.<br>
