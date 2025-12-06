@@ -171,31 +171,31 @@ Full pipeline for analyzing NHL shot events, data cleaning, predictions, and vis
 `Python` • `Pandas` • `Matplotlib` • `Scikit-learn`
 
 ### 🔹 Foundations of Data Analysis with NumPy and Pandas 
-This assignment introduces data analysis using NumPy and Pandas. You must implement summary functions, perform monthly data analysis, and compare execution times of two approaches using a provided notebook. The goal is to build strong foundational skills in data manipulation, performance evaluation, and practical use of Python data-science tools.<br>
+This assignment introduces data analysis using NumPy and Pandas. We implemented summary functions, perform monthly data analysis, and compare execution times of two approaches using a provided notebook. The goal is to build strong foundational skills in data manipulation, performance evaluation, and practical use of Python data-science tools.<br>
 🔗 **Code:** [Data Analysis](https://github.com/zalediallo/datasciences/blob/main/hw1.zip)  
 #### 🔧 Tech Stack  
 `Python` • `Pandas` • `Numpy`
 
 ### 🔹 Audio Dataset Processing & Visualization  
-This assignment focuses on cleaning metadata, downloading audio clips, extracting segments, and building a small data-processing pipeline. You will complete Python functions, assemble a dataset, and visualize audio in a notebook. The goal is to develop practical skills in audio handling, data pipelines, and exploratory analysis.<br> 
+This assignment focuses on cleaning metadata, downloading audio clips, extracting segments, and building a small data-processing pipeline. We will completed Python functions, assembled a dataset, and visualized audio in a notebook. The goal was to develop practical skills in audio handling, data pipelines, and exploratory analysis.<br> 
 🔗 **Code:** [Audio Processing](https://github.com/zalediallo/datasciences/blob/main/hw2.zip)  
 #### 🔧 Tech Stack  
 `Python` • `Pandas` • `ffmpeg` • `Numpy` • `youtube_dl` • `scipy` • `matplotlib` • `seaborn` • `tqdm` • `soundfile` • `librosa`
 
 ### 🔹 Reddit Activity & Chess Rating Analysis  
-This assignment develops skills in data analysis through two case studies: Reddit weekend activity patterns and chess rating differences. Students implement Python scripts, generate visualizations, interpret statistical results, and reflect on data limitations. The goal is to apply analytical methods, evaluate real-world datasets, and practice critical reasoning about conclusions.<br> 
+This assignment develops skills in data analysis through two case studies: Reddit weekend activity patterns and chess rating differences. We implemented Python scripts, generated visualizations, interpreted statistical results, and reflected on data limitations. The goal was to apply analytical methods, evaluated real-world datasets, and practiced critical reasoning about conclusions.<br> 
 🔗 **Code:** [data analysis](https://github.com/zalediallo/datasciences/blob/main/hw3.zip) 
 #### 🔧 Tech Stack  
 `Python` • `Pandas` • `Numpy` • `scipy` • `matplotlib` • `seaborn` • `tqdm`
 
 ### 🔹 Full-Stack ML Deployment & System Analysis
-In this task, we explore deploying machine-learning systems through backend–frontend architecture, Docker containers, and API interactions. Students diagnose bugs, analyze session handling, evaluate model-loading strategies, and study API-gateway designs. They also reflect on quantization trade-offs. The goal is to develop practical skills in debugging, deployment, and understanding real-world ML infrastructure.<br>
+In this task, we explore deploying machine-learning systems through backend–frontend architecture, Docker containers, and API interactions. We diagnose bugs, analyze session handling, evaluate model-loading strategies, and study API-gateway designs. They also reflect on quantization trade-offs. The goal is to develop practical skills in debugging, deployment, and understanding real-world ML infrastructure.<br>
 🔗 **Code:** [ML Deployment](https://github.com/zalediallo/datasciences/blob/main/hw4.zip) 
 #### 🔧 Tech Stack  
 `Python` • `flask` • `gunicorn` • `streamlit` • `torch, torchvision` • `pillow` • `pandas`
 
 ### 🔹 Interpretability, Outlier Handling & Feature Engineering in ML
-Here we focus on model interpretability, outlier detection, and feature engineering. Students analyze feature influence using explainability tools, clean abnormal data, engineer coordinate-based features, and answer conceptual questions. Through Python scripts and notebook visualizations, the goal is to strengthen practical ML analysis skills and understand how preprocessing impacts model performance.<br>
+Here we focus on model interpretability, outlier detection, and feature engineering. We analyze feature influence using explainability tools, clean abnormal data, engineer coordinate-based features, and answer conceptual questions. Through Python scripts and notebook visualizations, the goal is to strengthen practical ML analysis skills and understand how preprocessing impacts model performance.<br>
 🔗 **Code:** [Feature Engineering](https://github.com/zalediallo/datasciences/blob/main/hw5.zip) 
 #### 🔧 Tech Stack  
 `Python` • `eli5` • `matplotlib` • `numpy` • `scikit-learn` • `seaborn` • `shap`
