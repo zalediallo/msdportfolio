@@ -170,15 +170,95 @@ Full pipeline for analyzing NHL shot events, data cleaning, predictions, and vis
 #### 🔧 Tech Stack  
 `Python` • `Pandas` • `Matplotlib` • `Scikit-learn`
 
-### 🔹 Audio Dataset Processing & Visualization  
-Pipeline for downloading, segmenting, labeling, cleaning, and visualizing Google Research audio dataset.  
+### 🔹 Foundations of Data Analysis with NumPy and Pandas 
+This assignment introduces data analysis using NumPy and Pandas. You must implement summary functions, perform monthly data analysis, and compare execution times of two approaches using a provided notebook. The goal is to build strong foundational skills in data manipulation, performance evaluation, and practical use of Python data-science tools.<br>
+🔗 **Code:** [Data Analysis](https://github.com/zalediallo/datasciences/blob/main/hw1.zip)  
 #### 🔧 Tech Stack  
-`Python` • `Pandas` • `ffmpeg` • `youtube_dl`
+`Python` • `Pandas` • `Numpy`
 
-### 🔹 Homography & Panorama Reconstruction  
-Panorama reconstruction from 8 images using C++, OpenCV, and Mathematica.  
+### 🔹 Audio Dataset Processing & Visualization  
+This assignment focuses on cleaning metadata, downloading audio clips, extracting segments, and building a small data-processing pipeline. You will complete Python functions, assemble a dataset, and visualize audio in a notebook. The goal is to develop practical skills in audio handling, data pipelines, and exploratory analysis.<br> 
+🔗 **Code:** [Audio Processing](https://github.com/zalediallo/datasciences/blob/main/hw2.zip)  
 #### 🔧 Tech Stack  
-`C++` • `OpenCV` • `Mathematica`
+`Python` • `Pandas` • `ffmpeg` • `Numpy` • `youtube_dl` • `scipy` • `matplotlib` • `seaborn` • `tqdm` • `soundfile` • `librosa`
+
+### 🔹 Reddit Activity & Chess Rating Analysis  
+This assignment develops skills in data analysis through two case studies: Reddit weekend activity patterns and chess rating differences. Students implement Python scripts, generate visualizations, interpret statistical results, and reflect on data limitations. The goal is to apply analytical methods, evaluate real-world datasets, and practice critical reasoning about conclusions.<br> 
+🔗 **Code:** [data analysis](https://github.com/zalediallo/datasciences/blob/main/hw3.zip) 
+#### 🔧 Tech Stack  
+`Python` • `Pandas` • `Numpy` • `scipy` • `matplotlib` • `seaborn` • `tqdm`
+
+### 🔹 Full-Stack ML Deployment & System Analysis
+In this task, we explore deploying machine-learning systems through backend–frontend architecture, Docker containers, and API interactions. Students diagnose bugs, analyze session handling, evaluate model-loading strategies, and study API-gateway designs. They also reflect on quantization trade-offs. The goal is to develop practical skills in debugging, deployment, and understanding real-world ML infrastructure.<br>
+🔗 **Code:** [ML Deployment](https://github.com/zalediallo/datasciences/blob/main/hw4.zip) 
+#### 🔧 Tech Stack  
+`Python` • `flask` • `gunicorn` • `streamlit` • `torch, torchvision` • `pillow` • `pandas`
+
+### 🔹 Interpretability, Outlier Handling & Feature Engineering in ML
+Here we focus on model interpretability, outlier detection, and feature engineering. Students analyze feature influence using explainability tools, clean abnormal data, engineer coordinate-based features, and answer conceptual questions. Through Python scripts and notebook visualizations, the goal is to strengthen practical ML analysis skills and understand how preprocessing impacts model performance.<br>
+🔗 **Code:** [Feature Engineering](https://github.com/zalediallo/datasciences/blob/main/hw5.zip) 
+#### 🔧 Tech Stack  
+`Python` • `eli5` • `matplotlib` • `numpy` • `scikit-learn` • `seaborn` • `shap`
+
+### 🔹 Fine-Tuning Transformers for Sentiment Analysis & Chatbot Training
+This task explores fine-tuning modern transformer models for two tasks: sentiment classification with DistilBERT and chatbot creation using OpenLLaMA-2-3B. We compare training strategies, evaluate performance with metrics and confusion matrices, and document results in a structured report. The goal is to develop practical skills in adapting large language models.<br>
+🔗 **Code:** [Feature Engineering](https://github.com/zalediallo/datasciences/blob/main/hw6.zip) 
+#### 🔧 Tech Stack  
+`Python` • `transformers` • `matplotlib` • `numpy` • `scikit-learn` • `numpy` • `transformers` • `DistilBERT` • `LLaMA` 
+
+### 🔹 Responsive Restaurant Website with Front-End Automation
+This project is a responsive restaurant website built with HTML, CSS, and JavaScript. It includes multiple pages, optimized assets, and automated workflows for building and deploying using Grunt or Gulp. The goal is to deliver a clean, modern interface showcasing restaurant information, menus, and contact details with efficient front-end tooling.<br>
+🔗 **Code:** [Restaurant website](https://github.com/zalediallo/Restaurant) 
+#### 🔧 Tech Stack  
+`HTML5` • `CSS3` • `JavaScript` • `Gulp` • `Grunt` • `JavaScript` • `Node.js`
+
+### 🔹 TensorRT Model Conversion Pipeline
+This works provides a streamlined pipeline for converting deep-learning models into optimized TensorRT engines. Using configuration files and conversion scripts, it transforms pretrained checkpoints into high-performance inference models. The goal is to accelerate deployment by reducing latency and improving throughput, particularly for real-time or resource-constrained applications.<br>
+🔗 **Code:** [DL model converter](https://github.com/zalediallo/TensortRTConverter) 
+#### 🔧 Tech Stack  
+`Python` • `TensorRT` • `PyTorch` • `ONNX`
+
+### 🔹 Android Calculator Application
+This project is a simple Android calculator application built using Java and Gradle. It provides a clean interface for performing basic arithmetic operations with responsive UI elements. The goal is to demonstrate Android app structure, activity management, and build automation, resulting in a lightweight, functional mobile utility.<br>
+🔗 **Code:** [Calculator](https://github.com/zalediallo/Calculator) 
+#### 🔧 Tech Stack  
+`Java` • `Android SDK` • `XML` • `Gradle`
+
+### 🔹 Qt Application with Integrated Database Management
+This project is a Qt application designed to manage students living in dormitories during the COVID-19 lockdown. It records, tracks, and organizes resident information to support efficient monitoring, coordination, and administration. The system helps ensure safety and structured management during the pandemic confinement period.<br>
+🔗 **Code:** [Dormitory students](https://github.com/zalediallo/Qt_finalproject) 
+#### 🔧 Tech Stack  
+`C++` • `QT`
+
+### 🔹 Implementation of a Creational Design Pattern
+In this task, we demonstrate the use of creational design patterns in Java, specifically through a modular architecture that separates product interfaces (pizza, sandwich) from their concrete creators. It illustrates how abstraction, factory classes, and polymorphism simplify object creation, improve extensibility, and enforce clean software design principles.<br>
+🔗 **Code:** [Creational DP](https://github.com/zalediallo/PatronConceptionnel) 
+#### 🔧 Tech Stack  
+`Java` • `Design Patterns` • `OOP`
+
+### 🔹 Visitor Design Pattern for Employee Salary Processing
+This project implements the Visitor design pattern to manage salary calculations for different employee roles. By separating operations from data structures, the system allows flexible extensions—such as adding new salary rules without modifying employee classes. It demonstrates clean architecture, polymorphism, and scalable object-oriented design through the Visitor pattern.<br>
+🔗 **Code:** [Visitor DP](https://github.com/zalediallo/Patron-Visiteur) 
+#### 🔧 Tech Stack  
+`Java` • `Design Patterns` • `OOP`
+
+### 🔹 Traffic Light Simulation Using Object-Oriented Modeling
+This work simulates a traffic light system using object-oriented principles in Java. It models red, yellow, and green light behaviors through dedicated classes and manages transitions using a control module. The goal is to demonstrate state-based programming, clean class separation, and real-world system simulation through structured OOP design.<br>
+🔗 **Code:** [Traffic light simulator](https://github.com/zalediallo/Feu-de-Circulation) 
+#### 🔧 Tech Stack  
+`Java` • `Design Patterns` • `OOP`
+
+### 🔹 State Design Pattern Applied to a Fan Control System
+This project demonstrates the State design pattern through a fan control system that transitions between Off, On, Low, and High states. Each state is encapsulated in its own class, allowing clean behavior changes without modifying the main Ventilateur class. It showcases modularity, flexibility, and dynamic state-dependent logic.<br>
+🔗 **Code:** [Fan control system](https://github.com/zalediallo/PatronEtat) 
+#### 🔧 Tech Stack  
+`Java` • `Design Patterns` • `OOP`
+
+### 🔹 Turtle Graphics Drawing System
+This task implements a turtle-graphics drawing engine in Java. Using commands and geometric rules, a virtual turtle draws shapes, polygons, and custom figures on a graphical interface. It demonstrates object-oriented modeling, geometric computation, event handling, and a modular design allowing us to extend functionality with new drawing behaviors.<br>
+🔗 **Code:** [Fan control system](https://github.com/zalediallo/Projet-Java) 
+#### 🔧 Tech Stack  
+`Java` • `Swing` • `OOP`
 
 ### 🔹 Gen AI – Chatbots & Agents  
 Mini-projects using LLMs for RAG chatbot, PDF Q&A, planning agents, and FastAPI text generation.  
