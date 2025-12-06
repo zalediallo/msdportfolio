@@ -206,7 +206,31 @@ This task explores fine-tuning modern transformer models for two tasks: sentimen
 #### 🔧 Tech Stack  
 `Python` • `transformers` • `matplotlib` • `numpy` • `scikit-learn` • `numpy` • `transformers` • `DistilBERT` • `LLaMA` 
 
-### 🔹 Responsive Restaurant Website with Front-End Automation
+### 🔹 JInteractive Grouped Bar Chart Visualization(INF8808)
+This project consists of building an interactive grouped bar chart using D3.js and CSV data from Romeo and Juliet. Students preprocess character-line data, visualize grouped bars per act, add a color legend, and implement tooltips. The goal is to develop practical data-visualization skills and produce a clear, interactive graphic.<br>
+🔗 **Code:** [INF8808 Homework 2](https://github.com/zalediallo/INF8808/releases/tag/H1) 
+#### 🔧 Tech Stack  
+`JavaScript (ES6+)` • `Node.js` • `HTML` • `CSS` • `D3.js`
+
+### 🔹 Interactive Heatmap Visualization(INF8808)
+This project consists of creating an interactive heatmap using open municipal data. We preprocess a CSV dataset, represent values through color intensity, add a legend, and implement hover interactions. The goal is to practice data visualization principles, D3.js techniques, and clear visual communication through an informative, interactive graphic.<br>
+🔗 **Code:** [INF8808 Homework 3](https://github.com/zalediallo/INF8808/releases/tag/H3) 
+#### 🔧 Tech Stack  
+`JavaScript (ES6+)` • `Node.js` • `D3.js` • `HTML` • `CSS` • `Parcel` 
+
+### 🔹 Interactive Bubble Chart Visualization of Global CO₂ Emissions and GDP(INF8808)
+This project consists of creating an interactive bubble chart displaying the relationship between GDP and CO₂ emissions per capita for the years 2000 and 2015. Circles encode population, colors represent continents, and transitions animate year changes. Students implement scales, animations, a legend, and tooltips to build a complete, interactive visualization.<br>
+🔗 **Code:** [INF8808 Homework 4](https://github.com/zalediallo/INF8808/releases/tag/H4) 
+#### 🔧 Tech Stack  
+`JavaScript (ES6+)` • `Node.js` • `D3.js` • `HTML` • `CSS` • `JSON` 
+
+### 🔹 nteractive Scatter Map of Montreal’s Pedestrian Streets(INF8808)
+This project involves creating an interactive scatter map that visualizes Montreal’s pedestrian streets using GeoJSON and JSON datasets. Students preprocess geographic data, plot markers positioned by longitude–latitude, display borough names on hover, and show detailed information in a panel on click. A legend and collision-avoidance force layout complete the visualization.<br>
+🔗 **Code:** [INF8808 Homework 5](https://github.com/zalediallo/INF8808/releases/tag/H5) 
+#### 🔧 Tech Stack  
+`JavaScript (ES6+)` • `Node.js` • `D3.js` • `HTML` • `CSS` • `GeoJSON` • `JSON`
+
+### 🔹 Responsive Restaurant Website with Front-End Automation(INF8808)
 This project is a responsive restaurant website built with HTML, CSS, and JavaScript. It includes multiple pages, optimized assets, and automated workflows for building and deploying using Grunt or Gulp. The goal is to deliver a clean, modern interface showcasing restaurant information, menus, and contact details with efficient front-end tooling.<br>
 🔗 **Code:** [Restaurant website](https://github.com/zalediallo/Restaurant) 
 #### 🔧 Tech Stack  
