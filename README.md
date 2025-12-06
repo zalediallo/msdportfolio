@@ -236,6 +236,18 @@ This project is a responsive restaurant website built with HTML, CSS, and JavaSc
 #### 🔧 Tech Stack  
 `HTML5` • `CSS3` • `JavaScript` • `Gulp` • `Grunt` • `JavaScript` • `Node.js`
 
+### 🔹 Evaluation and Analysis of Open-Source Information Retrieval Systems(IFT 6255)
+This assignment requires running multiple open-source IR systems to index and retrieve documents, compare retrieval models, and evaluate effectiveness on a TREC collection. We test stemming, stoplists, and ranking models, then examine code-level implementations to explain performance differences. The goal is to understand practical IR behavior, system design, and real-world search engine mechanics.<br>
+🔗 **Code:** [IR systems](https://github.com/zalediallo/IFT-6255) 
+#### 🔧 Tech Stack  
+`Java` • `Lucene` • `Lemur` • `Terrier` • `TF–IDF` • `BM25` • `Dirichlet smoothing`
+
+### 🔹 Model-Driven Prompt Engineering for GPT-Based Generation of Anti-Pattern Code Samples(IFT 6253)
+This project proposes a model-driven approach to generate code examples containing specific anti-patterns using GPT. By defining metamodels, concepts, rules, and model-to-text transformations, it systematically produces precise prompts that guide GPT in generating diverse, controlled code-smell samples to enrich training datasets for machine-learning-based code-smell detection.<br>
+🔗 **Code:** [Anti-Pattern Code](https://github.com/zalediallo/IFT-6253) 
+#### 🔧 Tech Stack  
+`Java` • `GPT` • `Xtext` • `Model-Driven Engineering (MDE)` • `Xtend` • `Software Metrics & Code-smell Taxonomy` • `Anti-pattern Detection` • `Anti-pattern Detection`
+
 ### 🔹 TensorRT Model Conversion Pipeline
 This works provides a streamlined pipeline for converting deep-learning models into optimized TensorRT engines. Using configuration files and conversion scripts, it transforms pretrained checkpoints into high-performance inference models. The goal is to accelerate deployment by reducing latency and improving throughput, particularly for real-time or resource-constrained applications.<br>
 🔗 **Code:** [DL model converter](https://github.com/zalediallo/TensortRTConverter) 
