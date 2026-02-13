@@ -44,18 +44,44 @@ My background includes academic research, web development, and hands-on work in 
 
 ## 🏆 Certifications & Hackathons  
 
-### 🔹 IBM Dev Day: AI Demystified — Hackathon Participant (2026)  
+### 🔹 IBM Dev Day: AI Demystified — AI Hackathon Participant (2026)
 
-Participated in **IBM Dev Day: AI Demystified**, a virtual AI-focused hackathon bringing together developers and AI practitioners to explore real-world applications of artificial intelligence.
+Participated in **IBM Dev Day: AI Demystified**, a multi-day virtual AI event and hackathon focused on enterprise-grade AI development, agentic workflows, and scalable cloud-based solutions.
 
 **January 29 – February 1, 2026**  
 **IBM Virtual Event + Hackathon**  
 **Certificate of Participation** — [View Certificate](https://github.com/zalediallo/msdportfolio/blob/main/IBM%20Certificate.pdf)
 
-**Focus Areas:**  
-`Generative AI` • `Enterprise AI Applications` • `Cloud AI` • `AI Engineering` • `LLM Workflows`
+---
 
-This experience strengthened my ability to apply AI concepts in collaborative, time-constrained environments and reinforced my interest in scalable, enterprise-grade AI systems.
+### 🧠 Event Overview
+
+The event combined expert-led technical sessions with a hands-on hackathon phase, covering modern AI engineering tools and enterprise deployment strategies.
+
+**Technologies & Platforms Explored:**
+
+- **IBM watsonx.ai** – Foundation models & enterprise AI development  
+- **IBM Granite Models** – Large language models for business applications  
+- **Langflow** – Visual LLM workflow orchestration  
+- **IBM ALTK (AI Learning Toolkit)** – AI experimentation & development  
+- **IBM CUGA** – AI automation & governance tooling  
+- **Multi-agent AI workflows** & orchestration frameworks  
+
+---
+
+### Skills Strengthened
+
+`Generative AI` • `LLMs` • `Enterprise AI Architecture` • `AI Agents` • `Cloud AI Platforms` • `Model Deployment` • `AI Governance`
+
+---
+
+### Key Takeaways
+
+- Strengthened my understanding of **enterprise AI system design**
+- Gained exposure to **agent-based workflows and LLM orchestration**
+- Explored IBM’s ecosystem for building **secure and scalable AI solutions**
+- Practiced rapid prototyping in a collaborative, time-constrained environment
+- Reinforced my focus on building **production-ready AI systems**
 
 ---
 
