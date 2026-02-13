@@ -48,9 +48,9 @@ My background includes academic research, web development, and hands-on work in 
 
 Participated in **IBM Dev Day: AI Demystified**, a virtual AI-focused hackathon bringing together developers and AI practitioners to explore real-world applications of artificial intelligence.
 
-📅 **January 29 – February 1, 2026**  
-🏢 **IBM Virtual Event + Hackathon**  
-📜 **Certificate of Participation** — [View Certificate (PDF)](https://github.com/zalediallo/msdportfolio/blob/main/IBM%20Certificate.pdf)
+**January 29 – February 1, 2026**  
+**IBM Virtual Event + Hackathon**  
+**Certificate of Participation** — [View Certificate](https://github.com/zalediallo/msdportfolio/blob/main/IBM%20Certificate.pdf)
 
 **Focus Areas:**  
 `Generative AI` • `Enterprise AI Applications` • `Cloud AI` • `AI Engineering` • `LLM Workflows`
