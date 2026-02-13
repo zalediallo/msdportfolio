@@ -62,15 +62,12 @@ My background includes academic research, web development, and hands-on work in 
 ## 🏆 Certifications & Hackathons  
 
 ### 🔹 IBM Dev Day: AI Demystified — AI Hackathon Participant (2026)
-
 Participated in **IBM Dev Day: AI Demystified**, a multi-day virtual AI event and hackathon focused on enterprise-grade AI development, agentic workflows, and scalable cloud-based solutions.
-
 **January 29 – February 1, 2026**  
 **IBM Virtual Event + Hackathon**  
 **Certificate of Participation** — [View Certificate](https://github.com/zalediallo/msdportfolio/blob/main/IBM%20Certificate.pdf)
 
 **Technologies & Platforms Explored:**
-
 - **IBM watsonx.ai** – Foundation models & enterprise AI development  
 - **IBM Granite Models** – Large language models for business applications  
 - **Langflow** – Visual LLM workflow orchestration  
@@ -82,10 +79,8 @@ Participated in **IBM Dev Day: AI Demystified**, a multi-day virtual AI event an
 `Generative AI` • `LLMs` • `Enterprise AI Architecture` • `AI Agents` • `Cloud AI Platforms` • `Model Deployment` • `AI Governance`
 
 ### 🔹 NYIF — Stpcx.2.0: Technical Analysis and the Skill of Day Trading (edX)
-
 Completed the course **Stpcx.2.0: Technical Analysis and the Skill of Day Trading**, offered by **edX** through the **New York Institute of Finance (NYIF)**. This program covers key concepts in financial market analysis, including technical stock chart interpretation, day trading strategies, and risk management techniques.
 **Provider:** edX / New York Institute of Finance  
-
 **Skills Covered:**  
 - Technical analysis of financial markets  
 - Chart pattern recognition  
