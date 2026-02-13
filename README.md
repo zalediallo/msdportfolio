@@ -79,6 +79,8 @@ Participated in **IBM Dev Day: AI Demystified**, a multi-day virtual AI event an
 
 ### 🔹 NYIF — Stpcx.2.0: Technical Analysis and the Skill of Day Trading (edX)
 Completed the course **Stpcx.2.0: Technical Analysis and the Skill of Day Trading**, offered by **edX** through the **New York Institute of Finance (NYIF)**. This program covers key concepts in financial market analysis, including technical stock chart interpretation, day trading strategies, and risk management techniques.
+
+[Verified Certificate](https://courses.edx.org/certificates/a653f14267d740b5aa6de76d143227bc)
  
 **Skills Covered:**  
 - Technical analysis of financial markets  
@@ -86,8 +88,6 @@ Completed the course **Stpcx.2.0: Technical Analysis and the Skill of Day Tradin
 - Price action interpretation  
 - Day trading strategy fundamentals  
 - Risk management principles
-
-[Verified Certificate](https://courses.edx.org/certificates/a653f14267d740b5aa6de76d143227bc)
 
 ---
 
