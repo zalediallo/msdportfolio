@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am an AI Engineer and Software Developer with experience in building data pipelines, deploying machine learning models, and designing intelligent applications. I specialize in **Gen AI**, **LLMs**, **MLOps**, **computer vision**, **data engineering**, and **full-stack development**.
+I am an AI Engineer and Software Developer with experience in building data pipelines, deploying machine learning models, and designing intelligent applications. I specialize in **Gen AI**, **LLMs**, **MLOps**, **computer vision**, **data engineering**, and **full-stack development**. 
 
 My background includes academic research, web development, and hands-on work in AI and software engineering. I thrive in environments where innovation meets real-world impact.
 
