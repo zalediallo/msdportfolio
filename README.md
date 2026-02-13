@@ -85,15 +85,6 @@ The event combined expert-led technical sessions with a hands-on hackathon phase
 ### Skills Strengthened
 
 `Generative AI` • `LLMs` • `Enterprise AI Architecture` • `AI Agents` • `Cloud AI Platforms` • `Model Deployment` • `AI Governance`
-
-### Key Takeaways
-
-- Strengthened my understanding of **enterprise AI system design**
-- Gained exposure to **agent-based workflows and LLM orchestration**
-- Explored IBM’s ecosystem for building **secure and scalable AI solutions**
-- Practiced rapid prototyping in a collaborative, time-constrained environment
-- Reinforced my focus on building **production-ready AI systems**
-
 ---
 
 ## 📂 Featured Projects
