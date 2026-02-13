@@ -83,8 +83,8 @@ The event combined expert-led technical sessions with a hands-on hackathon phase
 - **Multi-agent AI workflows** & orchestration frameworks  
 
 ### Skills Strengthened
-
 `Generative AI` • `LLMs` • `Enterprise AI Architecture` • `AI Agents` • `Cloud AI Platforms` • `Model Deployment` • `AI Governance`
+
 ---
 
 ## 📂 Featured Projects
