@@ -69,10 +69,6 @@ Participated in **IBM Dev Day: AI Demystified**, a multi-day virtual AI event an
 **IBM Virtual Event + Hackathon**  
 **Certificate of Participation** — [View Certificate](https://github.com/zalediallo/msdportfolio/blob/main/IBM%20Certificate.pdf)
 
-### Event Overview
-
-The event combined expert-led technical sessions with a hands-on hackathon phase, covering modern AI engineering tools and enterprise deployment strategies.
-
 **Technologies & Platforms Explored:**
 
 - **IBM watsonx.ai** – Foundation models & enterprise AI development  
