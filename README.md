@@ -51,7 +51,7 @@ My background includes academic research, web development, and hands-on work in 
 - Multi-agent orchestration frameworks  
 
 ### **Tools**
-- Git, Linux, VSCode, Jupyter  
+- Git, Linux, VSCode, Jupyter, IBM Bob 
 - OpenCV, Mathematica  
 - Figma, Postman  
 - Hugging Face Transformers  
