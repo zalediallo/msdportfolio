@@ -12,33 +12,60 @@ I am an AI Engineer and Software Developer with experience in building data pipe
 My background includes academic research, web development, and hands-on work in AI and software engineering. I thrive in environments where innovation meets real-world impact.
 
 ---
-
 ## 🔧 Technical Skills
 
 ### **AI & Machine Learning**
 - Python, TensorFlow, PyTorch  
 - Scikit-learn, Pandas, NumPy  
 - LLMs, RAG, LangChain, Agentic AI  
+- IBM Granite Models  
+- Foundation Models (Enterprise AI)  
+- Prompt Engineering & LLM Orchestration  
+- AI Agents & Multi-Agent Systems  
+
+---
 
 ### **MLOps & Cloud**
 - Google Cloud (Vertex AI, Cloud Run, Cloud Build)  
+- IBM watsonx.ai  
 - Docker, CI/CD (GitHub Actions)  
 - Model deployment, monitoring, pipelines  
+- Cloud-native AI architectures  
+- AI governance & scalable AI systems  
+
+---
 
 ### **Software Engineering**
 - Java, C++, C  
 - Flask, FastAPI, Node.js  
 - REST APIs, microservices  
+- API integration for LLM systems  
+- Backend architecture for AI applications  
+
+---
 
 ### **Data Engineering**
 - SQL, BigQuery  
 - Data cleaning, feature engineering  
 - ETL pipelines  
+- Embeddings pipelines & vector databases  
+
+---
+
+### **AI Workflow & Orchestration Tools**
+- Langflow  
+- LangChain  
+- LLM workflow automation  
+- Multi-agent orchestration frameworks  
+
+---
 
 ### **Tools**
 - Git, Linux, VSCode, Jupyter  
 - OpenCV, Mathematica  
 - Figma, Postman  
+- Hugging Face Transformers  
+- Docker Compose  
 
 ---
 
