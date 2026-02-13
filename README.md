@@ -85,6 +85,20 @@ The event combined expert-led technical sessions with a hands-on hackathon phase
 ### Skills Strengthened
 `Generative AI` • `LLMs` • `Enterprise AI Architecture` • `AI Agents` • `Cloud AI Platforms` • `Model Deployment` • `AI Governance`
 
+### 📘 NYIF — Stpcx.2.0: Technical Analysis and the Skill of Day Trading (edX)
+
+Completed the course **Stpcx.2.0: Technical Analysis and the Skill of Day Trading**, offered by **edX** through the **New York Institute of Finance (NYIF)**. This program covers key concepts in financial market analysis, including technical stock chart interpretation, day trading strategies, and risk management techniques.
+**Provider:** edX / New York Institute of Finance  
+
+**Skills Covered:**  
+- Technical analysis of financial markets  
+- Chart pattern recognition  
+- Price action interpretation  
+- Day trading strategy fundamentals  
+- Risk management principles
+
+[Verified Certificate](https://courses.edx.org/certificates/a653f14267d740b5aa6de76d143227bc)
+
 ---
 
 ## 📂 Featured Projects
