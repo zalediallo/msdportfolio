@@ -23,8 +23,6 @@ My background includes academic research, web development, and hands-on work in 
 - Prompt Engineering & LLM Orchestration  
 - AI Agents & Multi-Agent Systems  
 
----
-
 ### **MLOps & Cloud**
 - Google Cloud (Vertex AI, Cloud Run, Cloud Build)  
 - IBM watsonx.ai  
@@ -33,8 +31,6 @@ My background includes academic research, web development, and hands-on work in 
 - Cloud-native AI architectures  
 - AI governance & scalable AI systems  
 
----
-
 ### **Software Engineering**
 - Java, C++, C  
 - Flask, FastAPI, Node.js  
@@ -42,23 +38,17 @@ My background includes academic research, web development, and hands-on work in 
 - API integration for LLM systems  
 - Backend architecture for AI applications  
 
----
-
 ### **Data Engineering**
 - SQL, BigQuery  
 - Data cleaning, feature engineering  
 - ETL pipelines  
 - Embeddings pipelines & vector databases  
 
----
-
 ### **AI Workflow & Orchestration Tools**
 - Langflow  
 - LangChain  
 - LLM workflow automation  
 - Multi-agent orchestration frameworks  
-
----
 
 ### **Tools**
 - Git, Linux, VSCode, Jupyter  
