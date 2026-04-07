@@ -92,7 +92,7 @@ Completed the course **Stpcx.2.0: Technical Analysis and the Skill of Day Tradin
 ---
 
 ## 📂 Featured Projects
-### 🔹 ClearSight-ScanSense (<span style="color:green"><strong>Ongoing Research Project</strong></span>)
+### 🔹 ClearSight-ScanSense (<span style="color:green"><strong>Ongoing Applied Research Project</strong></span>)
 
 AI-augmented multimodal sensor analytics platform designed for real-time environmental perception, anomaly detection, and intelligent scene understanding. The project focuses on combining computer vision, sensor fusion, and AI analytics to support industrial inspection and smart infrastructure monitoring.
 
