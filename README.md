@@ -104,7 +104,7 @@ Applied research project focused on building explainable deep learning systems f
 - Implementing explainability methods for model transparency
 - Contributing to research documentation and technical architecture decisions
 
-### Technical Stack
+### Tech Stack
 - **Deep Learning:** PyTorch, MONAI
 - **Medical Imaging:** NiBabel, SimpleITK
 - **Programming:** Python
