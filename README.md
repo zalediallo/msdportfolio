@@ -105,10 +105,7 @@ Applied research project focused on building explainable deep learning systems f
 - Contributing to research documentation and technical architecture decisions
 
 ### 🔧Tech Stack
-- **Deep Learning:** PyTorch, MONAI
-- **Medical Imaging:** NiBabel, SimpleITK
-- **Programming:** Python
-- **AI Methods:** Explainable AI (Grad-CAM, Integrated Gradients)
+ `PyTorch` • `MONAI` • `NiBabel` • `SimpleITK` • `Python` • `Explainable AI (Grad-CAM, Integrated Gradients)`
 
 ### Research Domains
 - Medical AI  
