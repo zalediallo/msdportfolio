@@ -92,6 +92,11 @@ Completed the course **Stpcx.2.0: Technical Analysis and the Skill of Day Tradin
 ---
 
 ## 📂 Featured Projects
+### 🔹 ClearSight-ScanSense (Ongoing Research Project)
+
+AI-augmented multimodal sensor analytics platform designed for real-time environmental perception, anomaly detection, and intelligent scene understanding. The project focuses on combining computer vision, sensor fusion, and AI analytics to support industrial inspection and smart infrastructure monitoring.
+
+**Collaboration:** Developed in collaboration with the [CITA Research Council](https://www.citacouncil.com/) as part of my membership in the organization.
 
 ### 🔹 AI Developper 
 Responsible for implementing the artificial intelligence module of the [DocFlow](https://docflow.ca/) project for verifying the compliance of notary-type documents..
