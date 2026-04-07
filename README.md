@@ -97,8 +97,8 @@ Applied research project focused on building explainable deep learning systems f
 
 **Collaboration:** Developed in collaboration with the [CITA Research Council](https://www.citacouncil.com/) as part of my membership in the organization.
 
-### Responsibilities
-- Conducting state-of-the-art review of 3D medical vision architectures
+### Main tasks
+- State-of-the-art review of 3D medical vision architectures
 - Evaluating large-scale medical imaging datasets (BraTS, LIDC-IDRI, CheXpert)
 - Designing deep learning experimentation pipelines
 - Implementing explainability methods for model transparency
@@ -106,13 +106,6 @@ Applied research project focused on building explainable deep learning systems f
 
 ### 🔧Tech Stack
  `PyTorch` • `MONAI` • `NiBabel` • `SimpleITK` • `Python` • `Explainable AI (Grad-CAM, Integrated Gradients)`
-
-### Research Domains
-- Medical AI  
-- Computer Vision  
-- Deep Learning  
-- Explainable AI (XAI)  
-- Applied Research Engineering
 
 ### 🔹 AI Developper 
 Responsible for implementing the artificial intelligence module of the [DocFlow](https://docflow.ca/) project for verifying the compliance of notary-type documents..
