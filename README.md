@@ -94,7 +94,9 @@ Completed the course **Stpcx.2.0: Technical Analysis and the Skill of Day Tradin
 ## 📂 Featured Projects
 ### 🔹 ClearSight-ScanSense – Applied AI Research in Medical Imaging(<span style="color:green"><strong>Ongoing</strong></span>)
 Applied research project focused on building explainable deep learning systems for medical image analysis across **MRI, CT, and X-ray modalities**. The project investigates scalable deep learning architectures for volumetric data and interpretable AI methods to support clinical decision validation.
+
 **Collaboration:** Developed in collaboration with the [CITA Research Council](https://www.citacouncil.com/) as part of my membership in the organization.
+
 ### Responsibilities
 - Conducting state-of-the-art review of 3D medical vision architectures
 - Evaluating large-scale medical imaging datasets (BraTS, LIDC-IDRI, CheXpert)
